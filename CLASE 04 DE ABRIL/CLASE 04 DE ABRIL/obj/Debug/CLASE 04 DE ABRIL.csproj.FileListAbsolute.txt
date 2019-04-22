@@ -1,0 +1,17 @@
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE_04_DE_ABRIL.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE_04_DE_ABRIL.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.pdb
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE_04_DE_ABRIL.Form1.resources
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE_04_DE_ABRIL.Properties.Resources.resources
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.exe.config
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.exe
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\bin\Debug\CLASE 04 DE ABRIL.pdb
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.exe
+C:\Users\Lab3\Desktop\CLASE 04 DE ABRIL\CLASE 04 DE ABRIL\obj\Debug\CLASE 04 DE ABRIL.pdb
